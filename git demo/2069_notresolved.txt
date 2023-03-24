@@ -1,0 +1,35 @@
+{
+  "SvcCdKey": {
+    "S": "ZT201285000549A1069-esmm_2069"
+  },
+  "MsgCrtEps": {
+    "N": "1648653938"
+  },
+  "ComDvcSn": {
+    "S": "ZT201285000549A1069"
+  },
+  "IsSvcCdInValid": {
+    "BOOL": false
+  },
+  "ConnDvcSn": {
+    "S": "ZT201285000549A1069-esmm"
+  },
+  "ErrCd": {
+    "N": "2069"
+  },
+  "ProdMdlNm": {
+    "S": "ESMM"
+  },
+  "TrgrdEps": {
+    "N": "1648653938"
+  },
+  "ErrStr": {
+    "S": "user_microgrid_info"
+  },
+  "ErrStFl": {
+    "BOOL": true
+  },
+  "DvcTy": {
+    "S": "DCM_CONTROLLER"
+  }
+}
